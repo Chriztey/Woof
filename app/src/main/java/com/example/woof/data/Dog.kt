@@ -40,3 +40,4 @@ val dogs = listOf(
     Dog(R.drawable.tzeitel, R.string.dog_name_8, 7, R.string.dog_description_8),
     Dog(R.drawable.leroy, R.string.dog_name_9, 4, R.string.dog_description_9)
 )
+
